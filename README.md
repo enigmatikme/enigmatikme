@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there 👋
+
+👾 I work as a software engineer at a Stealth company based in San Francisco/Menlo Park, California.
+
+🌱 Currently learning: scuba diving, surfing in Taiwan
+
+😄 Pronouns: she/her
+
+💬 Ask me about: all things development, cooking, travel, etc.
+
+⚡ Fun fact: Traveled for 2 years volunteering in South America, Europe, and Asia 
 
 <!--
 **enigmatikme/enigmatikme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
