@@ -1,8 +1,8 @@
-### Hey there 👋
+### I guess this is a thing 👋
 
-👾 I work as a software engineer at a Stealth company based in San Francisco/Menlo Park, California.
+👾 I work as a software engineer at Federato.ai based in San Francisco/Menlo Park, California.
 
-🌱 Currently learning: scuba diving, surfing in Taiwan
+🌱 Currently learning: scuba diving, surfing in Taiwan, riding a motor-bike 🏍
 
 😄 Pronouns: she/her
 
