@@ -1,6 +1,6 @@
 ### I guess this is a thing 👋
 
-👾 I work as a software engineer at Federato.ai based in San Francisco/Menlo Park, California.
+👾 software engineer at Federato.ai based in San Francisco/Menlo Park, California.
 
 🌱 Currently learning: scuba diving, surfing in Taiwan, riding a motor-bike 🏍
 
