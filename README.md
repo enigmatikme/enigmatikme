@@ -1,8 +1,10 @@
 ### I guess this is a thing 👋
 
-👾 software engineer at Federato.ai based in San Francisco/Menlo Park, California.
+👾 software engineer at Federato based in San Francisco/Menlo Park, California.
 
-🌱 Currently learning: scuba diving, surfing in Taiwan, riding a motor-bike 🏍
+🌱 Currently learning: scuba diving, surfing, riding a motor-bike 🏍, robotics 🤖🦿, etc.
+
+📍 Remote: Kauai, HI. 
 
 😄 Pronouns: she/her
 
